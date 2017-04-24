@@ -1,12 +1,12 @@
 
 # Npm user packages scrapper
 
-![Node](https://img.shields.io/node/v/npm-user-packages-scrapper.svg?style=flat-square)
-[![NPM](https://img.shields.io/npm/v/npm-user-packages-scrapper.svg?style=flat-square)](https://www.npmjs.com/package/npm-user-packages-scrapper)
-[![Travis](https://img.shields.io/travis/danielo515/npm-user-packages-scrapper/master.svg?style=flat-square)](https://travis-ci.org/danielo515/npm-user-packages-scrapper)
-[![David](https://img.shields.io/david/danielo515/npm-user-packages-scrapper.svg?style=flat-square)](https://david-dm.org/danielo515/npm-user-packages-scrapper)
-[![Coverage Status](https://img.shields.io/coveralls/danielo515/npm-user-packages-scrapper.svg?style=flat-square)](https://coveralls.io/github/danielo515/npm-user-packages-scrapper)
-[![npm](https://img.shields.io/npm/dt/npm-user-packages-scrapper.svg?style=flat-square)](https://www.npmjs.com/package/npm-user-packages-scrapper)
+![Node](https://img.shields.io/node/v/npm-user-pkgs-scrapper.svg?style=flat-square)
+[![NPM](https://img.shields.io/npm/v/npm-user-pkgs-scrapper.svg?style=flat-square)](https://www.npmjs.com/package/npm-user-pkgs-scrapper)
+[![Travis](https://img.shields.io/travis/danielo515/npm-user-pkgs-scrapper/master.svg?style=flat-square)](https://travis-ci.org/danielo515/npm-user-pkgs-scrapper)
+[![David](https://img.shields.io/david/danielo515/npm-user-pkgs-scrapper.svg?style=flat-square)](https://david-dm.org/danielo515/npm-user-pkgs-scrapper)
+[![Coverage Status](https://img.shields.io/coveralls/danielo515/npm-user-pkgs-scrapper.svg?style=flat-square)](https://coveralls.io/github/danielo515/npm-user-pkgs-scrapper)
+[![npm](https://img.shields.io/npm/dt/npm-user-pkgs-scrapper.svg?style=flat-square)](https://www.npmjs.com/package/npm-user-pkgs-scrapper)
 
 Small utility that scraps the packages of certain npm user. This means, packages publicly available created by the target user.
 It was built specifically as a helper library for my port-folio. Funnily it scraps itself as part of the portfolio generation.
