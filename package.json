@@ -1,0 +1,21 @@
+{
+  "name": "npm-user-pkgs-scrapper",
+  "version": "1.0.0",
+  "description": "Get the packages created by specifc npm user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "scrapper",
+    "packages",
+    "user"
+  ],
+  "author": "Danielo Rodríguez Rivero",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "cheerio": "^0.22.0"
+  }
+}
