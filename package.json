@@ -1,6 +1,6 @@
 {
   "name": "npm-user-pkgs-scrapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the packages created by specific npm user",
   "main": "index.js",
   "scripts": {
