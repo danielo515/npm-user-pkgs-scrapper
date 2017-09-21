@@ -1,6 +1,8 @@
 
 # Npm user packages scrapper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danielo515/npm-user-pkgs-scrapper.svg)](https://greenkeeper.io/)
+
 ![Node](https://img.shields.io/node/v/npm-user-pkgs-scrapper.svg?style=flat-square)
 [![NPM](https://img.shields.io/npm/v/npm-user-pkgs-scrapper.svg?style=flat-square)](https://www.npmjs.com/package/npm-user-pkgs-scrapper)
 [![Travis](https://img.shields.io/travis/danielo515/npm-user-pkgs-scrapper/master.svg?style=flat-square)](https://travis-ci.org/danielo515/npm-user-pkgs-scrapper)
